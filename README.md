@@ -1,6 +1,6 @@
 # ShahJabir
 
-<img src="./images/me.jpg" align="right" />
+<img src="/ShahJabir/ShahJabir/raw/main/images/me.jpg" align="right" />
 
 I'm Shah Jabir and I am owner of `IT-Talk` which is a Tech company. I have built, and more importantly, helped others build computer programs over the past for several years.
 
