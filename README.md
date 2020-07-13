@@ -9,12 +9,12 @@ I work at [IT-Talk](http://it-talk.github.io/official/index) and contribute to o
 ---
 
 **Social Media:**
-[![GitHub](/ShahJabir/ShahJabir/raw/main/icons/github.png)](https://github.com/ShahJabir)
-[![Facebook](/ShahJabir/ShahJabir/raw/main/icons/facebook.ico)](https://www.facebook.com/shah.jabir.90/)
-[![YouTube](/ShahJabir/ShahJabir/raw/main/icons/youtube.png)](http://www.youtube.com/channel/UCkAviUrmuFv20KR9XAqy3ZA)
-[![Twitter](/ShahJabir/ShahJabir/raw/main/icons/twitter.png)](https://twitter.com/ShahJabir2)
-[![LinkedIn](/ShahJabir/ShahJabir/raw/main/icons/linkedin.png)](https://www.linkedin.com/in/shahjabir/)
-[![Instagram](/ShahJabir/ShahJabir/raw/main/icons/instagram.png)](https://www.instagram.com/shahjabir823/)
+[![GitHub](icons/github.png)](https://github.com/ShahJabir)
+[![Facebook](icons/facebook.ico)](https://www.facebook.com/shah.jabir.90/)
+[![YouTube](icons/youtube.png)](http://www.youtube.com/channel/UCkAviUrmuFv20KR9XAqy3ZA)
+[![Twitter](icons/twitter.png)](https://twitter.com/ShahJabir2)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/shahjabir/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/shahjabir823/)
 
 ***Currently working with:*** <br> <br>
 **Programming language:**
